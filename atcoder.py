@@ -1,6 +1,6 @@
 import os
 contest_name,level_max=map(str,input().split())
-new_dir_path = "C:\\Users\\user\\proj\\atcoder\\"+ contest_name
+new_dir_path = "ここにいれたいパスを入力しろあほ。じゃないとばぐる。（必然）"+ contest_name
 if not os.path.exists(new_dir_path):
    os.mkdir(new_dir_path)
 count=["A","B","C","D","E","F","G","HEX"]
