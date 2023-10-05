@@ -1,5 +1,6 @@
 # atcoder_mkdir
 atcoderの問題を解く用のファイル生成のやつ。
+python3 があれば多分つかえるね。そうにきまってる
 ```python
 #中にいれるパスの例1
 new_dir_path = "C:\\Users\\"+ contest_name
